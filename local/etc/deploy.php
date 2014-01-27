@@ -1,5 +1,3 @@
 <?php
-echo 'apptha.com';
-echo '11';
-
- ?>          
+welcome
+?>          
